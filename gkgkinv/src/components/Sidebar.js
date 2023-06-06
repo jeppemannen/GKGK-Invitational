@@ -58,7 +58,7 @@ return (
 					marginLeft: "200px",
 					color: "white" }}
 		>
-			GKGK-Invitaitional
+			GKGK-Invitaitionalzzzz
 		</h1>
 		</Nav>
 		<SidebarNav sidebar={sidebar}>
