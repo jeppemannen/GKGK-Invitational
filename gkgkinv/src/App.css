@@ -1,10 +1,20 @@
 .App {
   
 }
+footer{
+  color:black;
+  background-color: #223876;
+  height: 100px;
+
+}
+
+.footer{
+  margin-top: auto;
+}
 
 * {
   box-sizing: border-box;
-  margin: 0;
+  margin: flex;
   padding: 0;
   }
   .home,
@@ -14,7 +24,6 @@
   .events,
   .support {
   display: flex;
-  margin-left: 260px;
   font-size: 2rem;
   }
   
